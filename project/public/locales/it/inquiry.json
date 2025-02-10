@@ -1,0 +1,27 @@
+{
+  "title": "Invia Richiesta",
+  "firstName": "Nome",
+  "lastName": "Cognome",
+  "email": "Indirizzo Email",
+  "phone": "Numero di Telefono (con prefisso)",
+  "message": "Messaggio Aggiuntivo",
+  "sending": "Invio in corso...",
+  "success": "La tua richiesta è stata inviata con successo!",
+  "successDesc": "Ti risponderemo il prima possibile.",
+  "returnHome": "Torna alla Home",
+  "backToBoat": "Torna ai dettagli della barca",
+  "duration": "{{days}} giorni",
+  "total": "Totale",
+  "noDates": "Nessuna data selezionata",
+  "error": {
+    "send": "Errore nell'invio della richiesta. Riprova.",
+    "general": "Si è verificato un errore. Riprova più tardi.",
+    "tooMany": "Attendi un momento prima di inviare un'altra richiesta."
+  },
+  "sendInquiry": "Invia Richiesta",
+  "bookingDetails": "I tuoi dettagli di prenotazione",
+  "pickupTime": "Orario di ritiro barca",
+  "dropoffTime": "Orario di riconsegna barca",
+  "privacyNotice": "Inviando questo modulo, accetti la nostra",
+  "privacyPolicy": "Informativa sulla Privacy"
+}

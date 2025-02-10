@@ -1,0 +1,27 @@
+{
+  "title": "Send Inquiry",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email Address",
+  "phone": "Phone Number (with country code)",
+  "message": "Additional Message",
+  "sending": "Sending...",
+  "success": "Your inquiry was sent successfully!",
+  "successDesc": "We will get back to you as soon as possible.",
+  "returnHome": "Return to Home",
+  "backToBoat": "Back to boat details",
+  "duration": "{{days}} days",
+  "total": "Total",
+  "noDates": "No dates selected",
+  "error": {
+    "send": "Error sending inquiry. Please try again.",
+    "general": "An error occurred. Please try again later.",
+    "tooMany": "Please wait a moment before sending another inquiry."
+  },
+  "sendInquiry": "Send Inquiry",
+  "bookingDetails": "Your booking details",
+  "pickupTime": "Boat pick-up time",
+  "dropoffTime": "Boat drop-off time",
+  "privacyNotice": "By submitting this form, you agree to our",
+  "privacyPolicy": "Privacy Policy"
+}

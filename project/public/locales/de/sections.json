@@ -1,0 +1,26 @@
+{
+  "fleet": {
+    "title": "Unsere Premium-Flotte"
+  },
+  "destinations": {
+    "title": "Beliebte Reiseziele",
+    "whatToBring": "Was sollte man mitnehmen?"
+  },
+  "features": {
+    "title": "Warum Zen Nautica wählen"
+  },
+  "experience": {
+    "title": "Erlebnis mit Zen Nautica",
+    "needSkipper": "Brauchen Sie einen Skipper?",
+    "skipperDesc": "Bei Bedarf stellen wir Ihnen einen erfahrenen Skipper zur Verfügung, damit Sie sich entspannen und unvergessliche Momente mit Familie und Freunden verbringen können. Das Zen Nautica Team gibt Ihnen viele nützliche Informationen und hilft Ihnen bei der Suche nach Attraktionen. Unser Ziel ist es, Ihren Urlaub auf der Insel Krk noch besser zu machen.",
+    "petFriendly": "Wir sind haustierfreundlich!",
+    "petDesc": "Man kann kein Glück kaufen, aber man kann ein Boot in Malinska mieten und mit seinem Haustier auf Abenteuerfahrt gehen! Kleine oder große Hunde, das ist uns egal, Hauptsache Sie haben Spaß!",
+    "needTraining": "Brauchen Sie Skipper-Training?",
+    "trainingDesc": "Wir stellen Ihnen einen erfahrenen Skipper zur Verfügung, der Sie durch die Grundlagen der Bootsbedienung führt. Sie lernen das richtige Navigieren, Anlegen und Ankern sowie wichtige Knoten und andere wesentliche Fähigkeiten. Unser Ziel ist es, dass Ihr Urlaub sicher und angenehm wird!"
+  },
+  "location": {
+    "title": "Hier finden Sie uns",
+    "address": "Besuchen Sie uns unter: ",
+    "fullAddress": "Obala 22, 51511, Malinska, Kroatien"
+  }
+}

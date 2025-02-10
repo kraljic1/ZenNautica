@@ -1,0 +1,26 @@
+{
+  "fleet": {
+    "title": "Naša Premium Flota"
+  },
+  "destinations": {
+    "title": "Priljubljene Destinacije",
+    "whatToBring": "Kaj vzeti s seboj na pot?"
+  },
+  "features": {
+    "title": "Zakaj Izbrati Zen Nautico"
+  },
+  "experience": {
+    "title": "Izkušnja z Zen Nautico",
+    "needSkipper": "Potrebujete skiperja?",
+    "skipperDesc": "Če potrebujete, vam zagotovimo izkušenega skiperja, da se lahko osredotočite in preživite nepozabne trenutke z družino in prijatelji. Ekipa Zen nautice vam bo posredovala številne koristne informacije in pomagala locirati znamenitosti. Naš cilj je, da bo vaš dopust na otoku Krku še boljši.",
+    "petFriendly": "Sprejemamo hišne ljubljenčke!",
+    "petDesc": "Sreče ne morete kupiti, lahko pa si izposodite čoln v Malinski in se podate na pustolovščino s svojim hišnim ljubljenčkom! Mali ali veliki psi, nam ni pomembno, dokler uživate!",
+    "needTraining": "Potrebujete usposabljanje za skiperja?",
+    "trainingDesc": "Zagotovimo vam lahko izkušenega skiperja, ki vas bo vodil skozi osnove upravljanja čolna. Naučili se boste navigacije, pristajanja in sidranja, skupaj z osnovnimi vozli in drugimi pomembnimi veščinami. Naš cilj je zagotoviti, da bo vaš dopust varen in prijeten!"
+  },
+  "location": {
+    "title": "Najdite Nas Tukaj",
+    "address": "Obiščite nas na: ",
+    "fullAddress": "Obala 22, 51511, Malinska, Hrvaška"
+  }
+}

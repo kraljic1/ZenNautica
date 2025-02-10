@@ -1,0 +1,20 @@
+{
+  "weekDays": ["Pon", "Uto", "Str", "Štv", "Pia", "Sob", "Ned"],
+  "months": ["Január", "Február", "Marec", "Apríl", "Máj", "Jún", "Júl", "August", "September", "Október", "November", "December"],
+  "previousMonth": "Predchádzajúci mesiac",
+  "nextMonth": "Nasledujúci mesiac",
+  "selectDate": "Vybrať dátum {{date}}",
+  "checkIn": "Príchod",
+  "checkOut": "Odchod",
+  "selectDatePlaceholder": "Vyberte dátum",
+  "dailyRate": "Denná sadzba",
+  "daysSelected": "Vybrané dni: ",
+  "discountInfo": {
+    "save": "Ušetrite {{percentage}}% pri dlhších pobytoch!",
+    "youSave": "Ušetríte €{{amount}} s touto rezerváciou!",
+    "longerStay": "• {{percentage}}% zľava pre pobyty dlhšie ako {{days}} dní",
+    "threeDays": "• 5% zľava pre pobyty dlhšie ako 3 dni",
+    "fiveDays": "• 15% zľava pre pobyty dlhšie ako 5 dní",
+    "tenDays": "• 20% zľava pre pobyty dlhšie ako 10 dní"
+  }
+}

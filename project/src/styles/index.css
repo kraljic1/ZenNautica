@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Component styles */
+@import './components/DestinationCard.css';
+@import './components/modal/DestinationModal.css';
+@import './components/modal/DestinationGallery.css';
+@import './components/modal/DestinationInformation.css';
+@import './components/modal/DestinationActivities.css';
+@import './components/ImageGallery.css';
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
