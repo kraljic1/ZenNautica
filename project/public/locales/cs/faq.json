@@ -1,0 +1,34 @@
+{
+  "title": "Často Kladené Dotazy",
+  "subtitle": "Vše, co potřebujete vědět o naší službě pronájmu lodí",
+  "location": {
+    "question": "Kde se nacházejí lodě?",
+    "answer": "Lodě se nacházejí v centru města Malinska, v blízkosti Centra interpretace námořního dědictví DUBoak (Obala 22, 51511, Malinska, Chorvatsko)."
+  },
+  "gasStation": {
+    "question": "Je v blízkosti Malinské čerpací stanice pro lodě?",
+    "answer": "Ne, v Malinské nejsou čerpací stanice pro lodě. Nejbližší se nachází ve městě Krk, přibližně 24 km daleko. Ale nebojte se – my natankujeme za vás!"
+  },
+  "longerRental": {
+    "question": "Mohu si pronajmout loď na delší období?",
+    "answer": "Ano, můžete! Například si můžete pronajmout loď na 7 dní a vracet ji denně. Natankujeme vám každý den nebo podle potřeby."
+  },
+  "fuel": {
+    "question": "Je palivo zahrnuto v ceně pronájmu?",
+    "answer": "Ne, palivo není zahrnuto v ceně pronájmu. Za palivo zaplatíte zvlášť při vrácení lodi do přístavu."
+  },
+  "skipper": {
+    "question": "Je skipper zahrnut v ceně pronájmu?",
+    "answer": "Ne, skipper není zahrnut v ceně. V případě potřeby si však můžete objednat skippera za dodatečný poplatek €120 na den."
+  },
+  "equipment": {
+    "question": "Nabízíte dodatečné vybavení k pronájmu?",
+    "answer": {
+      "intro": "Ano! Nabízíme dodatečné vybavení jako:",
+      "donuts": "Nafukovací kruhy",
+      "wakeboard": "Wakeboard",
+      "waterSkis": "Vodní lyže",
+      "contact": "Pokud máte jakékoliv dotazy, neváhejte nás kontaktovat!"
+    }
+  }
+}

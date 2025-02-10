@@ -1,0 +1,17 @@
+{
+  "description": "Az Ön hajóbérlési szolgáltatása Malinskában, Horvátországban",
+  "contact": "Kapcsolat",
+  "location": "Krk-sziget, Horvátország",
+  "phone": "Telefon",
+  "email": "Email",
+  "quickLinks": "Gyors Linkek",
+  "followUs": "Kövessen Minket",
+  "copyright": "© {{year}} Zen Nautica. Minden jog fenntartva.",
+  "designedBy": "Tervezte: Code & Sail",
+  "businessHours": {
+    "title": "Nyitvatartás",
+    "weekdays": "Hétfő - Vasárnap: 8:00 - 20:00",
+    "availability": "24/7 elérhető érdeklődésekhez"
+  },
+  "experience": "Fedezze fel az Adriai-tenger szépségét prémium hajóbérlési szolgáltatásunkkal. Széles választékban kínálunk hajókat felejthetetlen kalandokhoz."
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Politika Privatnosti",
+  "backToSite": "Natrag na stranicu",
+  "introduction": {
+    "title": "Uvod",
+    "content": "U Zen Nautici ozbiljno shvaćamo vašu privatnost. Ova Politika privatnosti objašnjava kako prikupljamo, koristimo i štitimo vaše osobne podatke kada koristite našu web stranicu i usluge."
+  },
+  "dataCollection": {
+    "title": "Informacije koje prikupljamo",
+    "content": "Prikupljamo informacije koje nam izravno pružate, kao i informacije o tome kako koristite našu web stranicu:",
+    "items": [
+      "Kontakt podaci (ime, email, broj telefona)",
+      "Preferencije i povijest rezervacija",
+      "Tehnički podaci (IP adresa, vrsta preglednika, informacije o uređaju)",
+      "Podaci o korištenju putem kolačića i sličnih tehnologija"
+    ]
+  },
+  "cookies": {
+    "title": "Korištenje Kolačića",
+    "content": "Koristimo kolačiće i slične tehnologije praćenja kako bismo poboljšali vaše iskustvo pregledavanja i analizirali promet na web stranici. Možete kontrolirati postavke kolačića putem postavki vašeg preglednika.",
+    "types": {
+      "title": "Vrste kolačića koje koristimo",
+      "necessary": {
+        "title": "Neophodni Kolačići",
+        "description": "Potrebni za osnovnu funkcionalnost web stranice i sigurnost. Ovi se ne mogu isključiti."
+      },
+      "analytics": {
+        "title": "Analitički Kolačići",
+        "description": "Pomažu nam razumjeti kako posjetitelji koriste našu web stranicu. Možete isključiti ove kolačiće."
+      }
+    }
+  },
+  "dataUsage": {
+    "title": "Kako koristimo vaše informacije",
+    "content": "Koristimo vaše informacije za pružanje i poboljšanje naših usluga, obradu vaših rezervacija, komunikaciju s vama o našim uslugama i ispunjavanje zakonskih obveza. Ne prodajemo vaše osobne podatke trećim stranama."
+  },
+  "dataProtection": {
+    "title": "Kako štitimo vaše podatke",
+    "content": "Implementiramo odgovarajuće tehničke i organizacijske mjere za zaštitu vaših osobnih podataka od neovlaštenog pristupa, izmjene, otkrivanja ili uništenja."
+  },
+  "userRights": {
+    "title": "Vaša prava",
+    "content": "Prema važećim zakonima o zaštiti podataka, imate sljedeća prava:",
+    "items": [
+      "Pravo pristupa vašim osobnim podacima",
+      "Pravo na ispravak netočnih podataka",
+      "Pravo na brisanje vaših podataka",
+      "Pravo na ograničavanje obrade vaših podataka",
+      "Pravo na prenosivost podataka",
+      "Pravo na prigovor na obradu"
+    ]
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "content": "Ako imate pitanja o ovoj Politici privatnosti ili našim praksama s podacima, kontaktirajte nas na:"
+  },
+  "lastUpdated": "Zadnje ažurirano: {{date}}"
+}

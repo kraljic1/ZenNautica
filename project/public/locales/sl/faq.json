@@ -1,0 +1,34 @@
+{
+  "title": "Pogosta Vprašanja",
+  "subtitle": "Vse, kar morate vedeti o naši storitvi izposoje čolnov",
+  "location": {
+    "question": "Kje se nahajajo čolni?",
+    "answer": "Čolni se nahajajo v središču Malinske, blizu Centra za interpretacijo pomorske dediščine DUBoak (Obala 22, 51511, Malinska, Hrvaška)."
+  },
+  "gasStation": {
+    "question": "Ali je v bližini Malinske bencinska črpalka za čolne?",
+    "answer": "Ne, v Malinski ni bencinskih črpalk za čolne. Najbližja je v mestu Krk, približno 24 km stran. Vendar ne skrbite – mi bomo napolnili rezervoar za vas!"
+  },
+  "longerRental": {
+    "question": "Ali lahko najamem čoln za daljše obdobje?",
+    "answer": "Da, lahko! Na primer, lahko najamete čoln za 7 dni in ga vračate dnevno. Rezervoar za gorivo bomo napolnili vsak dan ali po potrebi."
+  },
+  "fuel": {
+    "question": "Ali je gorivo vključeno v ceno najema?",
+    "answer": "Ne, gorivo ni vključeno v ceno najema. Za gorivo boste plačali posebej, ko boste vrnili čoln v pristanišče."
+  },
+  "skipper": {
+    "question": "Ali je skiper vključen v ceno najema?",
+    "answer": "Ne, skiper ni vključen v ceno. Vendar ga lahko po potrebi najamete posebej za dodatnih €120 na dan."
+  },
+  "equipment": {
+    "question": "Ali ponujate dodatno opremo za najem?",
+    "answer": {
+      "intro": "Da! Ponujamo dodatno opremo, kot so:",
+      "donuts": "Obroči",
+      "wakeboard": "Wakeboard",
+      "waterSkis": "Vodne smuči",
+      "contact": "Če imate kakršna koli vprašanja, nas prosim kontaktirajte!"
+    }
+  }
+}

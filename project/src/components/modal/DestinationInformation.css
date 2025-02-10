@@ -1,0 +1,111 @@
+.destination-info {
+  @apply bg-white p-6;
+}
+
+.destination-info__title {
+  @apply text-3xl font-bold mb-6;
+}
+
+.destination-info__grid {
+  @apply grid grid-cols-1 md:grid-cols-2 gap-6;
+}
+
+.destination-info__section {
+  @apply bg-gray-50 p-4 rounded-lg;
+}
+
+.destination-info__section-title {
+  @apply text-lg font-semibold mb-3 flex items-center;
+}
+
+.destination-info__section-icon {
+  @apply w-5 h-5 mr-2 text-blue-600;
+}
+
+.destination-info__description {
+  @apply text-gray-600 leading-relaxed;
+}
+
+.destination-info__routes {
+  @apply space-y-6;
+}
+
+.destination-info__route {
+  @apply space-y-4;
+}
+
+.destination-info__route-title {
+  @apply font-semibold text-gray-800;
+}
+
+.destination-info__route-image {
+  @apply aspect-w-16 aspect-h-9 rounded-lg overflow-hidden;
+}
+
+.destination-info__route-description {
+  @apply text-sm text-gray-600;
+}
+
+.destination-info__timeline {
+  @apply space-y-3;
+}
+
+.destination-info__waypoint {
+  @apply flex items-center;
+}
+
+.destination-info__waypoint-dot {
+  @apply w-2 h-2 bg-blue-600 rounded-full mr-2;
+}
+
+.destination-info__waypoint-name {
+  @apply font-medium;
+}
+
+.destination-info__waypoint-description {
+  @apply text-sm text-gray-600;
+}
+
+.destination-info__waypoint-distance {
+  @apply text-sm text-blue-600;
+}
+
+.destination-info__timeline-line {
+  @apply w-0.5 h-4 bg-gray-200 ml-1;
+}
+
+.destination-info__details {
+  @apply grid grid-cols-2 gap-4;
+}
+
+.destination-info__detail-label {
+  @apply text-sm text-gray-500;
+}
+
+.destination-info__detail-value {
+  @apply font-medium;
+}
+
+.destination-info__tips {
+  @apply bg-blue-50 p-4 rounded-lg;
+}
+
+.destination-info__tips-title {
+  @apply text-lg font-semibold mb-3 flex items-center text-blue-600;
+}
+
+.destination-info__tips-icon {
+  @apply w-5 h-5 mr-2;
+}
+
+.destination-info__tips-list {
+  @apply space-y-2 text-sm text-gray-600;
+}
+
+.destination-info__tips-list li {
+  @apply flex items-start;
+}
+
+.destination-info__tips-list li::before {
+  @apply content-['•'] text-blue-600 mr-2;
+}

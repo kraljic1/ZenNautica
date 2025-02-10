@@ -1,0 +1,26 @@
+{
+  "fleet": {
+    "title": "Naše Prémiová Flotila"
+  },
+  "destinations": {
+    "title": "Populární Destinace",
+    "whatToBring": "Co si vzít na cestu?"
+  },
+  "features": {
+    "title": "Proč si Vybrat Zen Nauticu"
+  },
+  "experience": {
+    "title": "Zážitek se Zen Nauticou",
+    "needSkipper": "Potřebujete skippera?",
+    "skipperDesc": "Pokud potřebujete, poskytneme vám zkušeného skippera, abyste se mohli soustředit a strávit nezapomenutelné chvíle s rodinou a přáteli. Tým Zen nautica vám poskytne množství užitečných informací a pomůže vám najít atrakce. Naším cílem je udělat vaši dovolenou na ostrově Krk ještě lepší.",
+    "petFriendly": "Jsme přátelští ke zvířatům!",
+    "petDesc": "Štěstí si nemůžete koupit, ale můžete si pronajmout loď v Malinské a vydat se na dobrodružnou plavbu se svým domácím mazlíčkem! Malí nebo velcí psi, nám to nevadí, hlavně že se bavíte!",
+    "needTraining": "Potřebujete trénink skippera?",
+    "trainingDesc": "Můžeme vám poskytnout zkušeného skippera, který vás provede základy ovládání lodi. Naučíte se správně navigovat, kotvit a přistávat, spolu se základními uzly a dalšími důležitými dovednostmi. Naším cílem je zajistit, aby vaše dovolená byla bezpečná a příjemná!"
+  },
+  "location": {
+    "title": "Najdete Nás Zde",
+    "address": "Navštivte nás na: ",
+    "fullAddress": "Obala 22, 51511, Malinska, Chorvatsko"
+  }
+}

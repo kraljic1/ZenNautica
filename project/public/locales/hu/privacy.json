@@ -1,0 +1,58 @@
+{
+  "title": "Adatvédelmi Szabályzat",
+  "backToSite": "Vissza az oldalra",
+  "introduction": {
+    "title": "Bevezetés",
+    "content": "A Zen Nauticánál komolyan vesszük az Ön adatainak védelmét. Ez az Adatvédelmi Szabályzat elmagyarázza, hogyan gyűjtjük, használjuk és védjük személyes adatait weboldalunk és szolgáltatásaink használata során."
+  },
+  "dataCollection": {
+    "title": "Az általunk gyűjtött információk",
+    "content": "Olyan információkat gyűjtünk, amelyeket Ön közvetlenül ad meg nekünk, valamint információkat arról, hogyan használja weboldalunkat:",
+    "items": [
+      "Kapcsolattartási adatok (név, email, telefonszám)",
+      "Foglalási preferenciák és előzmények",
+      "Technikai adatok (IP-cím, böngésző típusa, eszközinformációk)",
+      "Használati adatok sütik és hasonló technológiák révén"
+    ]
+  },
+  "cookies": {
+    "title": "Sütik használata",
+    "content": "Sütiket és hasonló nyomkövető technológiákat használunk a böngészési élmény javítása és a weboldal forgalmának elemzése érdekében. A süti beállításokat a böngésző beállításain keresztül szabályozhatja.",
+    "types": {
+      "title": "Az általunk használt sütik típusai",
+      "necessary": {
+        "title": "Szükséges sütik",
+        "description": "A weboldal alapvető működéséhez és biztonságához szükségesek. Ezek nem kapcsolhatók ki."
+      },
+      "analytics": {
+        "title": "Analitikai sütik",
+        "description": "Segítenek megérteni, hogyan lépnek kapcsolatba a látogatók weboldalunkkal. Ezeket a sütiket kikapcsolhatja."
+      }
+    }
+  },
+  "dataUsage": {
+    "title": "Hogyan használjuk az információkat",
+    "content": "Az Ön információit szolgáltatásaink nyújtására és fejlesztésére, foglalásai feldolgozására, szolgáltatásainkkal kapcsolatos kommunikációra és jogi kötelezettségeink teljesítésére használjuk. Nem adjuk el személyes adatait harmadik feleknek."
+  },
+  "dataProtection": {
+    "title": "Hogyan védjük az adatait",
+    "content": "Megfelelő technikai és szervezési intézkedéseket alkalmazunk személyes adatainak védelme érdekében a jogosulatlan hozzáférés, módosítás, nyilvánosságra hozatal vagy megsemmisítés ellen."
+  },
+  "userRights": {
+    "title": "Az Ön jogai",
+    "content": "Az alkalmazandó adatvédelmi törvények szerint Önt a következő jogok illetik meg:",
+    "items": [
+      "Jog a személyes adataihoz való hozzáféréshez",
+      "Jog a pontatlan adatok helyesbítéséhez",
+      "Jog az adatai törléséhez",
+      "Jog az adatai feldolgozásának korlátozásához",
+      "Jog az adathordozhatósághoz",
+      "Jog a feldolgozás elleni tiltakozáshoz"
+    ]
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "content": "Ha kérdése van ezzel az Adatvédelmi Szabályzattal vagy adatkezelési gyakorlatunkkal kapcsolatban, kérjük, vegye fel velünk a kapcsolatot:"
+  },
+  "lastUpdated": "Utolsó frissítés: {{date}}"
+}
