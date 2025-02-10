@@ -1,9 +1,0 @@
-/* Base components */
-@import './components/DestinationCard.css';
-@import './components/ImageGallery.css';
-
-/* Modal components */
-@import './components/modal/DestinationModal.css';
-@import './components/modal/DestinationGallery.css';
-@import './components/modal/DestinationInformation.css';
-@import './components/modal/DestinationActivities.css';
