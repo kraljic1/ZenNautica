@@ -1,0 +1,20 @@
+{
+  "weekDays": ["Pon", "Tor", "Sre", "Čet", "Pet", "Sob", "Ned"],
+  "months": ["Januar", "Februar", "Marec", "April", "Maj", "Junij", "Julij", "Avgust", "September", "Oktober", "November", "December"],
+  "previousMonth": "Prejšnji mesec",
+  "nextMonth": "Naslednji mesec",
+  "selectDate": "Izberi datum {{date}}",
+  "checkIn": "Prijava",
+  "checkOut": "Odjava",
+  "selectDatePlaceholder": "Izberi datum",
+  "dailyRate": "Dnevna cena",
+  "daysSelected": "Izbrano dni: ",
+  "discountInfo": {
+    "save": "Prihranite {{percentage}}% pri daljših bivanjih!",
+    "youSave": "Prihranite €{{amount}} s to rezervacijo!",
+    "longerStay": "• {{percentage}}% popusta za bivanja daljša od {{days}} dni",
+    "threeDays": "• 5% popusta za bivanja daljša od 3 dni",
+    "fiveDays": "• 15% popusta za bivanja daljša od 5 dni",
+    "tenDays": "• 20% popusta za bivanja daljša od 10 dni"
+  }
+}

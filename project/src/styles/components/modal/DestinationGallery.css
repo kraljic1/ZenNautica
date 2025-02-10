@@ -1,0 +1,19 @@
+.destination-gallery {
+  @apply h-full bg-black;
+}
+
+.destination-gallery__image {
+  @apply w-full h-full object-contain;
+}
+
+.destination-gallery__nav {
+  @apply absolute top-1/2 transform -translate-y-1/2 bg-black/50 text-white p-2 rounded-full transition-colors hover:bg-black/70;
+}
+
+.destination-gallery__nav--prev {
+  @apply left-4;
+}
+
+.destination-gallery__nav--next {
+  @apply right-4;
+}

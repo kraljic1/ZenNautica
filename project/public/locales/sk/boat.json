@@ -1,0 +1,22 @@
+{
+  "type": "Typ",
+  "length": "Dĺžka",
+  "width": "Šírka",
+  "capacity": "Kapacita",
+  "engine": "Motor",
+  "fuelTank": "Palivová nádrž",
+  "radio": "Rádio",
+  "navigation": "Navigácia",
+  "shower": "Sprcha",
+  "petsAllowed": "Povolené zvieratá",
+  "persons": "osôb",
+  "perDay": "/deň",
+  "selectDates": "Vyberte dátumy pre pokračovanie",
+  "sendInquiry": "Poslať dopyt",
+  "viewDetails": "Zobraziť detaily",
+  "types": {
+    "speed_boat": "Rýchloloď"
+  },
+  "yes": "Áno",
+  "no": "Nie"
+}

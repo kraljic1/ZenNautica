@@ -1,0 +1,22 @@
+{
+  "type": "Típus",
+  "length": "Hosszúság",
+  "width": "Szélesség",
+  "capacity": "Kapacitás",
+  "engine": "Motor",
+  "fuelTank": "Üzemanyagtartály",
+  "radio": "Rádió",
+  "navigation": "Navigáció",
+  "shower": "Zuhanyzó",
+  "petsAllowed": "Kisállat Engedélyezett",
+  "persons": "fő",
+  "perDay": "/nap",
+  "selectDates": "Válasszon Dátumokat a Folytatáshoz",
+  "sendInquiry": "Érdeklődés Küldése",
+  "viewDetails": "Részletek Megtekintése",
+  "types": {
+    "speed_boat": "Motorcsónak"
+  },
+  "yes": "Igen",
+  "no": "Nem"
+}

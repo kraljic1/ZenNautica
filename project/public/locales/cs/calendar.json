@@ -1,0 +1,20 @@
+{
+  "weekDays": ["Po", "Út", "St", "Čt", "Pá", "So", "Ne"],
+  "months": ["Leden", "Únor", "Březen", "Duben", "Květen", "Červen", "Červenec", "Srpen", "Září", "Říjen", "Listopad", "Prosinec"],
+  "previousMonth": "Předchozí měsíc",
+  "nextMonth": "Další měsíc",
+  "selectDate": "Vybrat datum {{date}}",
+  "checkIn": "Příjezd",
+  "checkOut": "Odjezd",
+  "selectDatePlaceholder": "Vyberte datum",
+  "dailyRate": "Denní sazba",
+  "daysSelected": "Vybrané dny: ",
+  "discountInfo": {
+    "save": "Ušetřete {{percentage}}% při delších pobytech!",
+    "youSave": "Ušetříte €{{amount}} s touto rezervací!",
+    "longerStay": "• {{percentage}}% sleva pro pobyty delší než {{days}} dní",
+    "threeDays": "• 5% sleva pro pobyty delší než 3 dny",
+    "fiveDays": "• 15% sleva pro pobyty delší než 5 dní",
+    "tenDays": "• 20% sleva pro pobyty delší než 10 dní"
+  }
+}

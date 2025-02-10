@@ -1,0 +1,103 @@
+.destination-modal {
+  @apply fixed inset-0 z-50 overflow-y-auto;
+}
+
+.destination-modal__container {
+  @apply flex min-h-screen items-center justify-center px-4 pt-4 pb-20 text-center sm:block sm:p-0;
+}
+
+.destination-modal__backdrop {
+  @apply fixed inset-0 bg-black bg-opacity-75 transition-opacity;
+}
+
+.destination-modal__content {
+  @apply relative inline-block transform overflow-hidden rounded-lg bg-white text-left align-bottom shadow-xl transition-all sm:my-8 sm:w-full sm:max-w-6xl sm:align-middle;
+}
+
+.destination-modal__close {
+  @apply absolute right-1 top-1 z-20 rounded-full bg-white/90 p-1 text-gray-600 hover:bg-white hover:text-gray-900 transition-all shadow-md;
+}
+
+.destination-modal__tabs {
+  @apply absolute left-0 top-0 z-10 flex w-full justify-center gap-0.5 p-2 bg-gradient-to-b from-black/50 to-transparent;
+}
+
+.destination-modal__tab {
+  @apply rounded-full px-3 py-1 text-xs font-medium transition-all;
+}
+
+.destination-modal__tab--active {
+  @apply bg-white text-blue-600 shadow-lg transform scale-105;
+}
+
+.destination-modal__tab--inactive {
+  @apply bg-white/90 text-gray-700 hover:bg-white hover:text-blue-600 hover:scale-105 transform;
+}
+
+.destination-modal__body {
+  @apply h-[80vh] overflow-y-auto;
+}
+
+.destination-modal__info {
+  @apply bg-white p-6;
+}
+
+.destination-modal__grid {
+  @apply grid grid-cols-1 md:grid-cols-2 gap-6;
+}
+
+.destination-modal__section {
+  @apply bg-gray-50 p-4 rounded-lg;
+}
+
+.destination-modal__section-title {
+  @apply text-lg font-semibold mb-3 flex items-center;
+}
+
+.destination-modal__section-icon {
+  @apply w-5 h-5 mr-2 text-blue-600;
+}
+
+.destination-modal__activity {
+  @apply bg-white p-2 rounded-lg text-sm font-medium text-gray-700 flex items-center;
+}
+
+.destination-modal__activity-dot {
+  @apply w-2 h-2 bg-blue-600 rounded-full mr-2;
+}
+
+.destination-modal__timeline {
+  @apply space-y-3;
+}
+
+.destination-modal__timeline-item {
+  @apply flex items-center;
+}
+
+.destination-modal__timeline-dot {
+  @apply w-2 h-2 bg-blue-600 rounded-full mr-2;
+}
+
+.destination-modal__timeline-line {
+  @apply w-0.5 h-4 bg-gray-200 ml-1;
+}
+
+.destination-modal__tips {
+  @apply bg-blue-50 p-4 rounded-lg;
+}
+
+.destination-modal__tips-title {
+  @apply text-lg font-semibold mb-3 flex items-center text-blue-600;
+}
+
+.destination-modal__tips-list {
+  @apply space-y-2 text-sm text-gray-600;
+}
+
+.destination-modal__tip {
+  @apply flex items-start;
+}
+
+.destination-modal__tip-bullet {
+  @apply text-blue-600 mr-2;
+}

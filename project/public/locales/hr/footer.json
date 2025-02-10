@@ -1,0 +1,17 @@
+{
+  "description": "Vaš servis za najam brodova u Malinskoj, Hrvatska",
+  "contact": "Kontakt",
+  "location": "Otok Krk, Hrvatska",
+  "phone": "Telefon",
+  "email": "Email",
+  "quickLinks": "Brze Poveznice",
+  "followUs": "Pratite Nas",
+  "copyright": "© {{year}} Zen Nautica. Sva prava pridržana.",
+  "designedBy": "Dizajnirao Code & Sail",
+  "businessHours": {
+    "title": "Radno Vrijeme",
+    "weekdays": "Ponedjeljak - Nedjelja: 8:00 - 20:00",
+    "availability": "Dostupni 24/7 za upite"
+  },
+  "experience": "Doživite ljepotu Jadranskog mora s našom premium uslugom najma brodova. Nudimo širok izbor brodova za nezaboravne avanture."
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Polityka Prywatności",
+  "backToSite": "Powrót do strony",
+  "introduction": {
+    "title": "Wprowadzenie",
+    "content": "W Zen Nautica poważnie traktujemy Twoją prywatność. Ta Polityka Prywatności wyjaśnia, jak zbieramy, wykorzystujemy i chronimy Twoje dane osobowe podczas korzystania z naszej strony internetowej i usług."
+  },
+  "dataCollection": {
+    "title": "Informacje, które zbieramy",
+    "content": "Zbieramy informacje, które przekazujesz nam bezpośrednio, a także informacje o tym, jak korzystasz z naszej strony:",
+    "items": [
+      "Dane kontaktowe (imię i nazwisko, email, numer telefonu)",
+      "Preferencje i historia rezerwacji",
+      "Dane techniczne (adres IP, typ przeglądarki, informacje o urządzeniu)",
+      "Dane o użytkowaniu poprzez pliki cookie i podobne technologie"
+    ]
+  },
+  "cookies": {
+    "title": "Wykorzystanie Plików Cookie",
+    "content": "Używamy plików cookie i podobnych technologii śledzenia, aby poprawić Twoje doświadczenia przeglądania i analizować ruch na stronie. Możesz kontrolować ustawienia plików cookie poprzez ustawienia przeglądarki.",
+    "types": {
+      "title": "Rodzaje używanych plików cookie",
+      "necessary": {
+        "title": "Niezbędne Pliki Cookie",
+        "description": "Wymagane do podstawowej funkcjonalności strony i bezpieczeństwa. Nie można ich wyłączyć."
+      },
+      "analytics": {
+        "title": "Analityczne Pliki Cookie",
+        "description": "Pomagają nam zrozumieć, jak odwiedzający wchodzą w interakcję z naszą stroną. Możesz wyłączyć te pliki cookie."
+      }
+    }
+  },
+  "dataUsage": {
+    "title": "Jak wykorzystujemy Twoje informacje",
+    "content": "Wykorzystujemy Twoje informacje do świadczenia i ulepszania naszych usług, przetwarzania rezerwacji, komunikacji z Tobą o naszych usługach i wypełniania zobowiązań prawnych. Nie sprzedajemy Twoich danych osobowych stronom trzecim."
+  },
+  "dataProtection": {
+    "title": "Jak chronimy Twoje dane",
+    "content": "Wdrażamy odpowiednie środki techniczne i organizacyjne, aby chronić Twoje dane osobowe przed nieautoryzowanym dostępem, zmianą, ujawnieniem lub zniszczeniem."
+  },
+  "userRights": {
+    "title": "Twoje prawa",
+    "content": "Zgodnie z obowiązującymi przepisami o ochronie danych, przysługują Ci następujące prawa:",
+    "items": [
+      "Prawo dostępu do swoich danych osobowych",
+      "Prawo do poprawiania niedokładnych danych",
+      "Prawo do żądania usunięcia swoich danych",
+      "Prawo do ograniczenia przetwarzania swoich danych",
+      "Prawo do przenoszenia danych",
+      "Prawo do sprzeciwu wobec przetwarzania"
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "content": "Jeśli masz pytania dotyczące tej Polityki Prywatności lub naszych praktyk dotyczących danych, skontaktuj się z nami pod adresem:"
+  },
+  "lastUpdated": "Ostatnia aktualizacja: {{date}}"
+}

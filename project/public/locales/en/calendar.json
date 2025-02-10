@@ -1,0 +1,20 @@
+{
+  "weekDays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "previousMonth": "Previous month",
+  "nextMonth": "Next month",
+  "selectDate": "Select date {{date}}",
+  "checkIn": "Check In",
+  "checkOut": "Check Out",
+  "selectDatePlaceholder": "Select a date",
+  "dailyRate": "Daily Rate",
+  "daysSelected": "Days selected: ",
+  "discountInfo": {
+    "save": "Save {{percentage}}% on longer stays!",
+    "youSave": "You save €{{amount}} with this booking!",
+    "longerStay": "• {{percentage}}% discount for stays over {{days}} days",
+    "threeDays": "• 5% discount for stays over 3 days",
+    "fiveDays": "• 15% discount for stays over 5 days",
+    "tenDays": "• 20% discount for stays over 10 days"
+  }
+}

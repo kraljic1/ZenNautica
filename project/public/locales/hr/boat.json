@@ -1,0 +1,22 @@
+{
+  "type": "Tip",
+  "length": "Dužina",
+  "width": "Širina",
+  "capacity": "Kapacitet",
+  "engine": "Motor",
+  "fuelTank": "Spremnik Goriva",
+  "radio": "Radio",
+  "navigation": "Navigacija",
+  "shower": "Tuš",
+  "petsAllowed": "Dozvoljeni Ljubimci",
+  "persons": "osoba",
+  "perDay": "/dan",
+  "selectDates": "Odaberite Datume za Nastavak",
+  "sendInquiry": "Pošalji Upit",
+  "viewDetails": "Prikaži Detalje",
+  "types": {
+    "speed_boat": "Gliser"
+  },
+  "yes": "Da",
+  "no": "Ne"
+}

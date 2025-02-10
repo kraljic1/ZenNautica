@@ -1,0 +1,27 @@
+{
+  "title": "Poslať Dopyt",
+  "firstName": "Meno",
+  "lastName": "Priezvisko",
+  "email": "Emailová Adresa",
+  "phone": "Telefónne Číslo (s predvoľbou krajiny)",
+  "message": "Dodatočná Správa",
+  "sending": "Odosielanie...",
+  "success": "Váš dopyt bol úspešne odoslaný!",
+  "successDesc": "Ozveme sa vám čo najskôr.",
+  "returnHome": "Späť na Úvod",
+  "backToBoat": "Späť na detaily lode",
+  "duration": "{{days}} dní",
+  "total": "Celkom",
+  "noDates": "Nie sú vybrané žiadne termíny",
+  "error": {
+    "send": "Chyba pri odosielaní dopytu. Skúste to prosím znova.",
+    "general": "Došlo k chybe. Skúste to prosím neskôr.",
+    "tooMany": "Počkajte prosím chvíľu pred odoslaním ďalšieho dopytu."
+  },
+  "sendInquiry": "Poslať Dopyt",
+  "bookingDetails": "Detaily vašej rezervácie",
+  "pickupTime": "Čas vyzdvihnutia lode",
+  "dropoffTime": "Čas vrátenia lode",
+  "privacyNotice": "Odoslaním tohto formulára súhlasíte s našimi",
+  "privacyPolicy": "Zásadami ochrany osobných údajov"
+}
