@@ -1,0 +1,34 @@
+{
+  "title": "Häufig Gestellte Fragen",
+  "subtitle": "Alles, was Sie über unseren Bootsvermietungsservice wissen müssen",
+  "location": {
+    "question": "Wo befinden sich die Boote?",
+    "answer": "Die Boote befinden sich im Stadtzentrum von Malinska, in der Nähe des Maritime Heritage Interpretation Center DUBoak (Obala 22, 51511, Malinska, Kroatien)."
+  },
+  "gasStation": {
+    "question": "Gibt es eine Tankstelle für Boote in der Nähe von Malinska?",
+    "answer": "Nein, es gibt keine Tankstellen für Boote in Malinska. Die nächste befindet sich in der Stadt Krk, etwa 24 km entfernt. Aber keine Sorge – wir füllen den Tank für Sie auf!"
+  },
+  "longerRental": {
+    "question": "Kann ich ein Boot für einen längeren Zeitraum mieten?",
+    "answer": "Ja, das können Sie! Zum Beispiel können Sie ein Boot für 7 Tage mieten und es täglich zurückbringen. Wir füllen Ihren Tank jeden Tag oder bei Bedarf auf."
+  },
+  "fuel": {
+    "question": "Ist der Kraftstoff im Mietpreis enthalten?",
+    "answer": "Nein, der Kraftstoff ist nicht im Mietpreis enthalten. Sie zahlen den Kraftstoff separat, wenn Sie das Boot in den Hafen zurückbringen."
+  },
+  "skipper": {
+    "question": "Ist ein Skipper im Mietpreis enthalten?",
+    "answer": "Nein, der Skipper ist nicht im Preis inbegriffen. Bei Bedarf können Sie jedoch einen Skipper für zusätzliche €120 pro Tag separat buchen."
+  },
+  "equipment": {
+    "question": "Bieten Sie zusätzliche Ausrüstung zur Miete an?",
+    "answer": {
+      "intro": "Ja! Wir bieten zusätzliche Ausrüstung wie:",
+      "donuts": "Donuts",
+      "wakeboard": "Wakeboard",
+      "waterSkis": "Wasserski",
+      "contact": "Wenn Sie weitere Fragen haben, kontaktieren Sie uns gerne!"
+    }
+  }
+}

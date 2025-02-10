@@ -1,0 +1,22 @@
+{
+  "type": "Typ",
+  "length": "Länge",
+  "width": "Breite",
+  "capacity": "Kapazität",
+  "engine": "Motor",
+  "fuelTank": "Kraftstofftank",
+  "radio": "Radio",
+  "navigation": "Navigation",
+  "shower": "Dusche",
+  "petsAllowed": "Haustiere Erlaubt",
+  "persons": "Personen",
+  "perDay": "/Tag",
+  "selectDates": "Wählen Sie Daten zum Fortfahren",
+  "sendInquiry": "Anfrage Senden",
+  "viewDetails": "Details Anzeigen",
+  "types": {
+    "speed_boat": "Schnellboot"
+  },
+  "yes": "Ja",
+  "no": "Nein"
+}

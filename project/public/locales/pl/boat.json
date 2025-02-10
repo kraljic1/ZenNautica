@@ -1,0 +1,22 @@
+{
+  "type": "Typ",
+  "length": "Długość",
+  "width": "Szerokość",
+  "capacity": "Pojemność",
+  "engine": "Silnik",
+  "fuelTank": "Zbiornik paliwa",
+  "radio": "Radio",
+  "navigation": "Nawigacja",
+  "shower": "Prysznic",
+  "petsAllowed": "Zwierzęta dozwolone",
+  "persons": "osób",
+  "perDay": "/dzień",
+  "selectDates": "Wybierz daty aby kontynuować",
+  "sendInquiry": "Wyślij zapytanie",
+  "viewDetails": "Zobacz szczegóły",
+  "types": {
+    "speed_boat": "Łódź motorowa"
+  },
+  "yes": "Tak",
+  "no": "Nie"
+}

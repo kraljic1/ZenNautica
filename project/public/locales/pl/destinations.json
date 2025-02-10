@@ -1,0 +1,150 @@
+{
+  "description": "Odkryj najpiękniejsze destynacje wokół wyspy Krk i stwórz niezapomniane wspomnienia z naszą premium usługą wynajmu łodzi.",
+  "modal": {
+    "explore": "Odkryj",
+    "contact_us": "Skontaktuj się z nami",
+    "tabs": {
+      "gallery": "Galeria",
+      "info": "Informacje",
+      "route": "Trasa"
+    },
+    "info": {
+      "about": "O destynacji",
+      "planning_tips": "Wskazówki planowania",
+      "tips": {
+        "morning": "Najlepiej zacząć wcześnie rano",
+        "weather": "Sprawdź warunki pogodowe przed wyjazdem",
+        "essentials": "Zabierz niezbędne rzeczy (krem do opalania, wodę, przekąski)",
+        "wind": "Weź pod uwagę warunki wiatrowe dla optymalnej trasy"
+      }
+    },
+    "activities": {
+      "title": "Dostępne aktywności"
+    },
+    "route": {
+      "title": "Szczegóły trasy",
+      "main_route": "Główna trasa",
+      "routes": {
+        "san_marino": "Plaża San Marino",
+        "rab_town": "Miasto Rab",
+        "gonar_bay": "Zatoka Gonar",
+        "beli": "Beli",
+        "kruscica": "Kruščica",
+        "cres_town": "Miasto Cres"
+      }
+    }
+  },
+  "activities": {
+    "swimming": "Pływanie",
+    "snorkeling": "Snorkeling",
+    "beach_activities": "Aktywności plażowe",
+    "historical_tours": "Wycieczki historyczne",
+    "photography": "Fotografia",
+    "medieval_architecture": "Architektura średniowieczna",
+    "local_cuisine": "Lokalna kuchnia",
+    "island_exploration": "Eksploracja wyspy",
+    "cave_exploration": "Eksploracja jaskiń",
+    "fishing": "Wędkarstwo",
+    "bird_watching": "Obserwacja ptaków",
+    "sightseeing": "Zwiedzanie",
+    "island_hopping": "Wycieczki między wyspami",
+    "cliff_jumping": "Skoki z klifów",
+    "dolphin_watching": "Obserwacja delfinów"
+  },
+  "destinations": {
+    "otok_cres": {
+      "name": "Wyspa Cres",
+      "description": "Odkryj spokojne zatoki i krystaliczne wody wyspy Cres, gdzie natura spotyka się ze spokojem."
+    },
+    "otok_rab": {
+      "name": "Wyspa Rab",
+      "description": "Doświadcz złotych piaszczystych plaż i średniowiecznego uroku wyspy Rab."
+    },
+    "otok_grgur": {
+      "name": "Wyspa Grgur",
+      "description": "Spotkaj przyjazne jelenie i odkryj ukryte skarby wyspy Grgur."
+    },
+    "otok_plavnik": {
+      "name": "Wyspa Plavnik",
+      "description": "Odkryj tajemniczą Jaskinię Miłości i krystalicznie czyste wody wyspy Plavnik."
+    },
+    "krug_oko_krka": {
+      "name": "Dookoła Krk",
+      "description": "Wyrusz w malowniczą podróż dookoła wyspy Krk, odkrywając jej różnorodne wybrzeże i ukryte zatoki."
+    },
+    "custom": {
+      "name": "Twój własny pomysł?",
+      "description": "Masz na myśli konkretną destynację? Pomożemy Ci zaplanować Twoją idealną podróż łodzią!"
+    }
+  },
+  "waypoints": {
+    "malinska": {
+      "name": "Malinska",
+      "description": "Punkt początkowy"
+    },
+    "beli": {
+      "name": "Beli",
+      "description": "Historyczna wioska nadmorska"
+    },
+    "grad_cres": {
+      "name": "Miasto Cres",
+      "description": "Główne miasto wyspy Cres"
+    },
+    "kruscica": {
+      "name": "Zatoka Kruščica",
+      "description": "Piękna odległa zatoka"
+    },
+    "plaza_san_marino": {
+      "name": "Plaża San Marino",
+      "description": "Piękna piaszczysta plaża"
+    },
+    "grad_rab": {
+      "name": "Miasto Rab",
+      "description": "Historyczne średniowieczne miasto"
+    },
+    "gonar": {
+      "name": "Gonar",
+      "description": "Malownicza zatoka"
+    },
+    "luka_sveti_grgur": {
+      "name": "Port Sveti Grgur",
+      "description": "Główny port i obszar obserwacji jeleni"
+    },
+    "uvala_krusija": {
+      "name": "Zatoka Krusija",
+      "description": "Piękna zatoka z krystalicznie czystą wodą"
+    },
+    "ljubavna_spilja": {
+      "name": "Jaskinia Miłości",
+      "description": "Tajemnicza Jaskinia Miłości"
+    },
+    "bujna": {
+      "name": "Bujna",
+      "description": "Pierwszy przystanek naszej podróży"
+    },
+    "ljubavna_spilja_plavnik": {
+      "name": "Jaskinia Miłości (Plavnik)",
+      "description": "Tajemnicza Jaskinia Miłości"
+    },
+    "golden_beach": {
+      "name": "Złota Plaża",
+      "description": "Piękna złota piaszczysta plaża"
+    },
+    "baska": {
+      "name": "Baška",
+      "description": "Słynne miasto nadmorskie"
+    },
+    "mala_luka": {
+      "name": "Mala Luka",
+      "description": "Urocza mała zatoka"
+    },
+    "krcki_most": {
+      "name": "Most Krk",
+      "description": "Ikoniczny most Krk"
+    },
+    "malinska_return": {
+      "name": "Powrót do Malinskiej",
+      "description": "Zakończenie okrążenia w punkcie początkowym"
+    }
+  }
+}

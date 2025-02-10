@@ -1,0 +1,27 @@
+{
+  "title": "Pošalji Upit",
+  "firstName": "Ime",
+  "lastName": "Prezime",
+  "email": "Email Adresa",
+  "phone": "Broj Telefona (s pozivnim brojem)",
+  "message": "Dodatna Poruka",
+  "sending": "Šalje se...",
+  "success": "Vaš upit je uspješno poslan!",
+  "successDesc": "Javit ćemo vam se u najkraćem mogućem roku.",
+  "returnHome": "Povratak na Početnu",
+  "backToBoat": "Povratak na detalje broda",
+  "duration": "{{days}} dana",
+  "total": "Ukupno",
+  "noDates": "Nisu odabrani datumi",
+  "error": {
+    "send": "Greška pri slanju upita. Molimo pokušajte ponovno.",
+    "general": "Došlo je do pogreške. Molimo pokušajte kasnije.",
+    "tooMany": "Molimo pričekajte trenutak prije slanja novog upita."
+  },
+  "sendInquiry": "Pošalji Upit",
+  "bookingDetails": "Detalji vaše rezervacije",
+  "pickupTime": "Vrijeme preuzimanja broda",
+  "dropoffTime": "Vrijeme vraćanja broda",
+  "privacyNotice": "Slanjem ovog obrasca pristajete na našu",
+  "privacyPolicy": "Politiku privatnosti"
+}

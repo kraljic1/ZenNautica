@@ -1,0 +1,34 @@
+{
+  "title": "Gyakran Ismételt Kérdések",
+  "subtitle": "Minden, amit tudnia kell a hajóbérlési szolgáltatásunkról",
+  "location": {
+    "question": "Hol találhatók a hajók?",
+    "answer": "A hajók Malinska központjában találhatók, a DUBoak Tengerészeti Örökség Értelmező Központ közelében (Obala 22, 51511, Malinska, Horvátország)."
+  },
+  "gasStation": {
+    "question": "Van hajós benzinkút Malinska közelében?",
+    "answer": "Nem, Malinskában nincs hajós benzinkút. A legközelebbi Krk városában található, körülbelül 24 km távolságra. De ne aggódjon – mi feltöltjük Önnek a tartályt!"
+  },
+  "longerRental": {
+    "question": "Bérelhetek hajót hosszabb időre?",
+    "answer": "Igen, lehet! Például bérelhet hajót 7 napra, és naponta visszahozhatja. Az üzemanyagtartályt minden nap vagy szükség szerint feltöltjük."
+  },
+  "fuel": {
+    "question": "Az üzemanyag benne van a bérleti díjban?",
+    "answer": "Nem, az üzemanyag nincs benne a bérleti díjban. Az üzemanyagot külön kell fizetni, amikor visszahozza a hajót a kikötőbe."
+  },
+  "skipper": {
+    "question": "A skipper benne van a bérleti díjban?",
+    "answer": "Nem, a skipper nincs benne az árban. Azonban, ha szükséges, külön bérelhet egyet napi €120 további költségért."
+  },
+  "equipment": {
+    "question": "Kínálnak további felszereléseket bérlésre?",
+    "answer": {
+      "intro": "Igen! Kínálunk további felszereléseket, mint például:",
+      "donuts": "Úszógumi",
+      "wakeboard": "Wakeboard",
+      "waterSkis": "Vízisí",
+      "contact": "Ha bármilyen kérdése van, keressen minket bizalommal!"
+    }
+  }
+}
