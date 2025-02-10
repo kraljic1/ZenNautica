@@ -8,3 +8,8 @@ zone_id = ""
 [site]
 bucket = "./dist"
 entry-point = "workers-site"
+
+[build]
+command = "npm run build"
+publish = "dist"
+base = "/"
