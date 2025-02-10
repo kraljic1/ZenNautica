@@ -1,0 +1,58 @@
+{
+  "title": "Zásady Ochrany Osobných Údajov",
+  "backToSite": "Späť na stránku",
+  "introduction": {
+    "title": "Úvod",
+    "content": "V Zen Nautica berieme vašu súkromie vážne. Tieto Zásady ochrany osobných údajov vysvetľujú, ako zhromažďujeme, používame a chránime vaše osobné údaje pri používaní našej webovej stránky a služieb."
+  },
+  "dataCollection": {
+    "title": "Informácie, ktoré zhromažďujeme",
+    "content": "Zhromažďujeme informácie, ktoré nám poskytujete priamo, ako aj informácie o tom, ako používate našu webovú stránku:",
+    "items": [
+      "Kontaktné údaje (meno, email, telefónne číslo)",
+      "Preferencie a história rezervácií",
+      "Technické údaje (IP adresa, typ prehliadača, informácie o zariadení)",
+      "Údaje o používaní prostredníctvom cookies a podobných technológií"
+    ]
+  },
+  "cookies": {
+    "title": "Používanie Cookies",
+    "content": "Používame cookies a podobné sledovacie technológie na zlepšenie vášho zážitku z prehliadania a analýzu návštevnosti webu. Nastavenia cookies môžete kontrolovať prostredníctvom nastavení prehliadača.",
+    "types": {
+      "title": "Typy cookies, ktoré používame",
+      "necessary": {
+        "title": "Nevyhnutné Cookies",
+        "description": "Potrebné pre základnú funkčnosť webovej stránky a bezpečnosť. Tieto nie je možné vypnúť."
+      },
+      "analytics": {
+        "title": "Analytické Cookies",
+        "description": "Pomáhajú nám pochopiť, ako návštevníci interagujú s našou webovou stránkou. Tieto cookies môžete vypnúť."
+      }
+    }
+  },
+  "dataUsage": {
+    "title": "Ako používame vaše informácie",
+    "content": "Vaše informácie používame na poskytovanie a zlepšovanie našich služieb, spracovanie vašich rezervácií, komunikáciu s vami o našich službách a plnenie zákonných povinností. Nepredávame vaše osobné údaje tretím stranám."
+  },
+  "dataProtection": {
+    "title": "Ako chránime vaše údaje",
+    "content": "Implementujeme primerané technické a organizačné opatrenia na ochranu vašich osobných údajov pred neoprávneným prístupom, zmenou, zverejnením alebo zničením."
+  },
+  "userRights": {
+    "title": "Vaše práva",
+    "content": "Podľa platných zákonov o ochrane údajov máte nasledujúce práva:",
+    "items": [
+      "Právo na prístup k vašim osobným údajom",
+      "Právo na opravu nepresných údajov",
+      "Právo požiadať o vymazanie vašich údajov",
+      "Právo na obmedzenie spracovania vašich údajov",
+      "Právo na prenosnosť údajov",
+      "Právo namietať proti spracovaniu"
+    ]
+  },
+  "contact": {
+    "title": "Kontaktujte nás",
+    "content": "Ak máte otázky týkajúce sa týchto Zásad ochrany osobných údajov alebo našich postupov s údajmi, kontaktujte nás na:"
+  },
+  "lastUpdated": "Posledná aktualizácia: {{date}}"
+}

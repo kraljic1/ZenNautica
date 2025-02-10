@@ -1,0 +1,62 @@
+# robots.txt for Zen Nautica
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow development/test URLs
+Disallow: /dev/
+Disallow: /test/
+Disallow: /staging/
+
+# Disallow inquiry form submissions
+Disallow: /inquiry?*
+
+# Allow static assets
+Allow: /assets/
+Allow: /images/
+Allow: /locales/
+
+# Sitemap location
+Sitemap: https://zennautica.com/sitemap.xml
+
+# Crawl-delay for all bots
+Crawl-delay: 10
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandexbot
+Allow: /
+Crawl-delay: 1
+
+# Social media bots
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 1
+
+# Block AI training bots
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /

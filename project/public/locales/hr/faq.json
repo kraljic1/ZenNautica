@@ -1,0 +1,34 @@
+{
+  "title": "Često Postavljana Pitanja",
+  "subtitle": "Sve što trebate znati o našoj usluzi najma brodova",
+  "location": {
+    "question": "Gdje se nalaze brodovi?",
+    "answer": "Brodovi se nalaze u centru Malinske, blizu Centra za interpretaciju pomorske baštine DUBoak (Obala 22, 51511, Malinska, Hrvatska)."
+  },
+  "gasStation": {
+    "question": "Postoji li benzinska postaja za brodove u blizini Malinske?",
+    "answer": "Ne, u Malinskoj nema bencinskih postaja za brodove. Najbliža se nalazi u gradu Krku, približno 24 km udaljena. Međutim, ne brinite – mi ćemo napuniti spremnik za vas!"
+  },
+  "longerRental": {
+    "question": "Mogu li iznajmiti brod na duže vrijeme?",
+    "answer": "Da, možete! Na primjer, možete iznajmiti brod na 7 dana i vraćati ga svakodnevno. Napunit ćemo vaš spremnik goriva svaki dan ili po potrebi."
+  },
+  "fuel": {
+    "question": "Je li gorivo uključeno u cijenu najma?",
+    "answer": "Ne, gorivo nije uključeno u cijenu najma. Gorivo ćete platiti zasebno kada vratite brod u luku."
+  },
+  "skipper": {
+    "question": "Je li skipper uključen u cijenu najma?",
+    "answer": "Ne, skipper nije uključen u cijenu. Međutim, ako je potrebno, možete ga unajmiti zasebno uz dodatni trošak od €120 po danu."
+  },
+  "equipment": {
+    "question": "Nudite li dodatnu opremu za najam?",
+    "answer": {
+      "intro": "Da! Nudimo dodatnu opremu kao što su:",
+      "donuts": "Gume",
+      "wakeboard": "Wakeboard",
+      "waterSkis": "Skije za vodu",
+      "contact": "Ako imate bilo kakvih pitanja, slobodno nas kontaktirajte!"
+    }
+  }
+}

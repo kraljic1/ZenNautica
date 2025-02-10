@@ -1,0 +1,150 @@
+{
+  "description": "Entdecken Sie die schönsten Reiseziele rund um die Insel Krk und schaffen Sie unvergessliche Erinnerungen mit unserem Premium-Bootsverleihservice.",
+  "modal": {
+    "explore": "Erkunden",
+    "contact_us": "Kontaktieren Sie uns",
+    "tabs": {
+      "gallery": "Galerie",
+      "info": "Informationen",
+      "route": "Route"
+    },
+    "info": {
+      "about": "Über",
+      "planning_tips": "Planungstipps",
+      "tips": {
+        "morning": "Am besten früh am Morgen starten",
+        "weather": "Wetterbedingungen vor der Abreise prüfen",
+        "essentials": "Grundausstattung mitbringen (Sonnencreme, Wasser, Snacks)",
+        "wind": "Windbedingungen für optimale Route berücksichtigen"
+      }
+    },
+    "activities": {
+      "title": "Verfügbare Aktivitäten"
+    },
+    "route": {
+      "title": "Routendetails",
+      "main_route": "Hauptroute",
+      "routes": {
+        "san_marino": "San Marino Strand",
+        "rab_town": "Stadt Rab",
+        "gonar_bay": "Gonar Bucht",
+        "beli": "Beli",
+        "kruscica": "Kruščica",
+        "cres_town": "Stadt Cres"
+      }
+    }
+  },
+  "activities": {
+    "swimming": "Schwimmen",
+    "snorkeling": "Schnorcheln",
+    "beach_activities": "Strandaktivitäten",
+    "historical_tours": "Historische Touren",
+    "photography": "Fotografie",
+    "medieval_architecture": "Mittelalterliche Architektur",
+    "local_cuisine": "Lokale Küche",
+    "island_exploration": "Inselerkundung",
+    "cave_exploration": "Höhlenerkundung",
+    "fishing": "Angeln",
+    "bird_watching": "Vogelbeobachtung",
+    "sightseeing": "Besichtigung",
+    "island_hopping": "Inselhopping",
+    "cliff_jumping": "Klippenspringen",
+    "dolphin_watching": "Delfin-Beobachtung"
+  },
+  "destinations": {
+    "otok_cres": {
+      "name": "Insel Cres",
+      "description": "Entdecken Sie die ruhigen Buchten und kristallklaren Gewässer der Insel Cres, wo Natur auf Gelassenheit trifft."
+    },
+    "otok_rab": {
+      "name": "Insel Rab",
+      "description": "Erleben Sie die goldenen Sandstrände und den mittelalterlichen Charme der Insel Rab."
+    },
+    "otok_grgur": {
+      "name": "Insel Grgur",
+      "description": "Treffen Sie die freundlichen Hirsche und erkunden Sie die versteckten Schätze der Insel Grgur."
+    },
+    "otok_plavnik": {
+      "name": "Insel Plavnik",
+      "description": "Erkunden Sie die geheimnisvolle Liebeshöhle und die kristallklaren Gewässer der Insel Plavnik."
+    },
+    "krug_oko_krka": {
+      "name": "Rundfahrt um Krk",
+      "description": "Machen Sie eine malerische Reise um die Insel Krk und entdecken Sie ihre vielfältige Küste und versteckten Buchten."
+    },
+    "custom": {
+      "name": "Ihre eigene Idee?",
+      "description": "Haben Sie ein bestimmtes Reiseziel im Sinn? Lassen Sie uns Ihnen bei der Planung Ihrer perfekten Bootstour helfen!"
+    }
+  },
+  "waypoints": {
+    "malinska": {
+      "name": "Malinska",
+      "description": "Ausgangspunkt"
+    },
+    "beli": {
+      "name": "Beli",
+      "description": "Historisches Küstendorf"
+    },
+    "grad_cres": {
+      "name": "Stadt Cres",
+      "description": "Hauptstadt der Insel Cres"
+    },
+    "kruscica": {
+      "name": "Bucht Kruščica",
+      "description": "Wunderschöne abgelegene Bucht"
+    },
+    "plaza_san_marino": {
+      "name": "San Marino Strand",
+      "description": "Schöner Sandstrand"
+    },
+    "grad_rab": {
+      "name": "Stadt Rab",
+      "description": "Historische mittelalterliche Stadt"
+    },
+    "gonar": {
+      "name": "Gonar",
+      "description": "Malerische Bucht"
+    },
+    "luka_sveti_grgur": {
+      "name": "Hafen Sveti Grgur",
+      "description": "Haupthafen und Hirschbeobachtungsgebiet"
+    },
+    "uvala_krusija": {
+      "name": "Bucht Krusija",
+      "description": "Schöne Bucht mit kristallklarem Wasser"
+    },
+    "ljubavna_spilja": {
+      "name": "Liebeshöhle",
+      "description": "Geheimnisvolle Liebeshöhle"
+    },
+    "bujna": {
+      "name": "Bujna",
+      "description": "Erste Station unserer Reise"
+    },
+    "ljubavna_spilja_plavnik": {
+      "name": "Liebeshöhle (Plavnik)",
+      "description": "Geheimnisvolle Liebeshöhle"
+    },
+    "golden_beach": {
+      "name": "Goldener Strand",
+      "description": "Wunderschöner goldener Sandstrand"
+    },
+    "baska": {
+      "name": "Baška",
+      "description": "Berühmte Küstenstadt"
+    },
+    "mala_luka": {
+      "name": "Mala Luka",
+      "description": "Charmante kleine Bucht"
+    },
+    "krcki_most": {
+      "name": "Krk-Brücke",
+      "description": "Ikonische Krk-Brücke"
+    },
+    "malinska_return": {
+      "name": "Rückkehr nach Malinska",
+      "description": "Vollendung der Rundfahrt zum Ausgangspunkt"
+    }
+  }
+}

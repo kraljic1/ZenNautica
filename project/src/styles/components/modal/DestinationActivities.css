@@ -1,0 +1,59 @@
+.destination-activities {
+  @apply p-6;
+}
+
+.destination-activities__title {
+  @apply text-3xl font-bold mb-6;
+}
+
+.destination-activities__grid {
+  @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6;
+}
+
+.destination-activities__card {
+  @apply bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow;
+}
+
+.destination-activities__card-content {
+  @apply flex items-center space-x-4;
+}
+
+.destination-activities__icon-container {
+  @apply p-3 bg-blue-100 rounded-full;
+}
+
+.destination-activities__icon {
+  @apply w-6 h-6 text-blue-600;
+}
+
+.destination-activities__activity-title {
+  @apply text-lg font-semibold text-gray-900;
+}
+
+.destination-activities__activity-subtitle {
+  @apply text-sm text-gray-500;
+}
+
+.destination-activities__guidelines {
+  @apply mt-8 bg-blue-50 p-6 rounded-xl;
+}
+
+.destination-activities__guidelines-title {
+  @apply text-xl font-semibold text-blue-900 mb-4;
+}
+
+.destination-activities__guidelines-grid {
+  @apply grid grid-cols-1 sm:grid-cols-2 gap-4;
+}
+
+.destination-activities__guideline {
+  @apply flex items-start space-x-3;
+}
+
+.destination-activities__guideline-dot {
+  @apply mt-1 w-2 h-2 bg-blue-600 rounded-full;
+}
+
+.destination-activities__guideline p {
+  @apply text-blue-800;
+}

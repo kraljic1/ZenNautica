@@ -1,0 +1,17 @@
+{
+  "description": "Ihr Bootsvermietungsservice in Malinska, Kroatien",
+  "contact": "Kontakt",
+  "location": "Insel Krk, Kroatien",
+  "phone": "Telefon",
+  "email": "E-Mail",
+  "quickLinks": "Schnelllinks",
+  "followUs": "Folgen Sie uns",
+  "copyright": "© {{year}} Zen Nautica. Alle Rechte vorbehalten.",
+  "designedBy": "Designed by Code & Sail",
+  "businessHours": {
+    "title": "Öffnungszeiten",
+    "weekdays": "Montag - Sonntag: 8:00 - 20:00",
+    "availability": "24/7 für Anfragen verfügbar"
+  },
+  "experience": "Erleben Sie die Schönheit der Adria mit unserem Premium-Bootsvermietungsservice. Wir bieten eine große Auswahl an Booten für unvergessliche Abenteuer."
+}

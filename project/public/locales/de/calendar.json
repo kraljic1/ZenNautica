@@ -1,0 +1,20 @@
+{
+  "weekDays": ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"],
+  "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+  "previousMonth": "Vorheriger Monat",
+  "nextMonth": "Nächster Monat",
+  "selectDate": "Datum auswählen {{date}}",
+  "checkIn": "Anreise",
+  "checkOut": "Abreise",
+  "selectDatePlaceholder": "Datum auswählen",
+  "dailyRate": "Tagespreis",
+  "daysSelected": "Ausgewählte Tage: ",
+  "discountInfo": {
+    "save": "Sparen Sie {{percentage}}% bei längeren Aufenthalten!",
+    "youSave": "Sie sparen €{{amount}} bei dieser Buchung!",
+    "longerStay": "• {{percentage}}% Rabatt für Aufenthalte über {{days}} Tage",
+    "threeDays": "• 5% Rabatt für Aufenthalte über 3 Tage",
+    "fiveDays": "• 15% Rabatt für Aufenthalte über 5 Tage",
+    "tenDays": "• 20% Rabatt für Aufenthalte über 10 Tage"
+  }
+}

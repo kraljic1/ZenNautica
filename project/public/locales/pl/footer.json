@@ -1,0 +1,17 @@
+{
+  "description": "Twoja usługa wynajmu łodzi w Malinskiej, Chorwacja",
+  "contact": "Kontakt",
+  "location": "Wyspa Krk, Chorwacja",
+  "phone": "Telefon",
+  "email": "Email",
+  "quickLinks": "Szybkie Linki",
+  "followUs": "Obserwuj Nas",
+  "copyright": "© {{year}} Zen Nautica. Wszelkie prawa zastrzeżone.",
+  "designedBy": "Zaprojektowane przez Code & Sail",
+  "businessHours": {
+    "title": "Godziny Otwarcia",
+    "weekdays": "Poniedziałek - Niedziela: 8:00 - 20:00",
+    "availability": "Dostępni 24/7 dla zapytań"
+  },
+  "experience": "Doświadcz piękna Morza Adriatyckiego z naszą premium usługą wynajmu łodzi. Oferujemy szeroki wybór łodzi do niezapomnianych przygód."
+}
